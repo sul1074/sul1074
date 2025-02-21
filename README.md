@@ -1,7 +1,8 @@
-### Jong Hwan's Git 
+# Jong Hwan's Git 😊
 
 <div align="center">
 
+## Badges
 <a href="https://sul1074.tistory.com/">
   <img src="https://img.shields.io/badge/Sul's History-E5511E?style=badge&logo=Tistory&logoColor=white" alt="Tistory Blog"/>
 </a>
@@ -11,18 +12,16 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=sul1074&show_icons=true&theme=dark" alt="GitHub Stats"/>
-    </td>
-    <td align="right">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sul1074&layout=compact&theme=dark" alt="GitHub Top Languages"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=sul1074&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sul1074&layout=compact&theme=dark" alt="GitHub Top Languages"/>
+  </div>
+</div>
 
-## Language And Stack
+## Additional Info
 Once I've Used: GitHub, Visual Studio Code, Notion, and more...
 
 </div>
