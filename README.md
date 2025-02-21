@@ -15,7 +15,7 @@
 <div align="center">
   
   ### Skills & Tools
-  --
+  ----
   Once I've Used: GitHub, Visual Studio Code, Notion, and more...
   
 </div>
