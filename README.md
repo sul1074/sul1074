@@ -7,10 +7,8 @@
   <br>
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; margin: 20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sul1074&show_icons=true&theme=dark" alt="GitHub Stats" style="max-width: 48%; margin-right: 20px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sul1074&layout=compact&theme=dark" alt="GitHub Top Languages" style="max-width: 48%; margin-left: 20px;"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=sul1074&show_icons=true&theme=dark" alt="GitHub Stats" style="max-width: 48%; margin-right: 20px;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sul1074&layout=compact&theme=dark" alt="GitHub Top Languages" style="max-width: 48%; margin-left: 20px;"/>
 
 <br><br><br> <!-- 공백으로 사용, 필요에 따라 조정 가능 -->
 
