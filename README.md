@@ -1,4 +1,4 @@
-# Jong Hwan's Git 😊
+# Jong Hwan's Git
 
 <div align="center">
   <a href="https://sul1074.tistory.com/">
