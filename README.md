@@ -6,7 +6,7 @@
   <a href="https://solved.ac/profile/sul1074">
     <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sul1074" alt="Solved.ac Profile Badge"/>
   </a>
-  ---
+  <hr style="width: 100%; margin: 10px 0;">
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 10px;">
