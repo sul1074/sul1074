@@ -9,7 +9,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin: 30px 0; padding: 0 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=sul1074&show_icons=true&theme=dark" alt="GitHub Stats" style="max-width: 48%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sul1074&layout=compact&theme=dark" alt="GitHub Top Languages" style="width: 30%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sul1074&layout=compact&theme=dark" alt="GitHub Top Languages" style="width: 40%;"/>
 </div>
 
 <div align="center" style="margin-top: 30px;">
