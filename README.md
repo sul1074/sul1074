@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sul1074&layout=compact&theme=dark" alt="GitHub Top Languages" align="right"/>
 </div>
 
-<br><br><br> <!-- 공백으로 사용, 필요에 따라 조정 가능 -->
+<br><br><br><br><br><br> <!-- 공백으로 사용, 필요에 따라 조정 가능 -->
 
 <div align="center">
   
