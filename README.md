@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<div style="display: flex;>
   <div style="align: left;">
     <h3>Jong Hwan's Git</h3>
     <a href="https://sul1074.tistory.com/"><img src="https://img.shields.io/badge/Sul's History-E5511E?style=badge&logo=Tistory&logoColor=white"/></a>
