@@ -1,4 +1,4 @@
-<h2 align = "center">Jong Hwan's Git</h2>
+# Jong Hwan's Git 😊
 
 <div align="center">
   <a href="https://sul1074.tistory.com/">
@@ -7,9 +7,8 @@
   <a href="https://solved.ac/profile/sul1074">
     <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sul1074" alt="Solved.ac Profile"/>
   </a>
+  ---
 </div>
-
-<br>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=sul1074&show_icons=true&theme=dark" alt="GitHub Stats" style="max-width: 48%;"/>
