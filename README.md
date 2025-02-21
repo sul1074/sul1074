@@ -1,4 +1,4 @@
-<h1 align = "center"># Jong Hwan's Git</h1>
+<h2 align = "center">Jong Hwan's Git</h2>
 
 <div align="center">
   <a href="https://sul1074.tistory.com/">
