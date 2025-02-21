@@ -5,15 +5,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Blog&logo=tistory&label=&color=3D3D3D&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tistory logo" />
+  <img src="https://img.shields.io/static/v1?message=Tistory&logo=tistory&label=&color=3D3D3D&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tistory logo" />
   <img src="https://img.shields.io/static/v1?message=Baekjoon&logo=baekjoon&label=&color=00A9E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="baekjoon logo" />
   <img src="https://img.shields.io/static/v1?message=solved.ac&logo=solvedac&label=&color=0061F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="solved.ac logo" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
 
 ###
@@ -43,6 +37,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" height="40" alt="unity logo"  />
 </div>
 
 ###
