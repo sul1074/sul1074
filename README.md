@@ -7,9 +7,10 @@
   <br>
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; margin: 30px 0; padding: 0 20px; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sul1074&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 50%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sul1074&layout=compact&theme=dark" alt="GitHub Top Languages" style="width: 38%;"/>
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; padding: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sul1074&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sul1074&layout=compact&theme=dark" alt="GitHub Top Languages" style="width: 48%;"/>
+  <a href="https://solved.ac/profile/sul1074"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sul1074" alt="Solved.ac Badge"/></a>
 </div>
 
 <div align="center" style="margin-top: 30px;">
