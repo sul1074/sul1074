@@ -15,6 +15,6 @@
 <div align="center" style="margin-top: 30px;">
   
   ### Skills & Tools
-  Once I've Used: GitHub, Visual Studio Code, Notion, and more...
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   
 </div>
