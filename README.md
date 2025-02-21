@@ -12,8 +12,11 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=sul1074&show_icons=true&theme=dark" alt="GitHub Stats" align="left" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sul1074&layout=compact&theme=dark" alt="GitHub Top Languages" align="right" width="48%"/>
+## GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=sul1074&show_icons=true&theme=dark" alt="GitHub Stats"/>
+
+## Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sul1074&layout=compact&theme=dark" alt="GitHub Top Languages"/>
 
 ## Additional Info
 Once I've Used: GitHub, Visual Studio Code, Notion, and more...
