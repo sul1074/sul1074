@@ -1,8 +1,7 @@
-# Jong Hwan's Git 😊
+### Jong Hwan's Git 
 
 <div align="center">
 
-## Badges
 <a href="https://sul1074.tistory.com/">
   <img src="https://img.shields.io/badge/Sul's History-E5511E?style=badge&logo=Tistory&logoColor=white" alt="Tistory Blog"/>
 </a>
@@ -12,7 +11,6 @@
 
 ---
 
-## GitHub Stats
 <table align="center">
   <tr>
     <td align="left">
@@ -24,7 +22,7 @@
   </tr>
 </table>
 
-## Additional Info
+## Language And Stack
 Once I've Used: GitHub, Visual Studio Code, Notion, and more...
 
 </div>
