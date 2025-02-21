@@ -1,5 +1,5 @@
 <div align = "center>
-  ###Jong Hwan's Git
+  ### JongHwan'sGit
     <a href="https://sul1074.tistory.com/">
     <img src="https://img.shields.io/badge/Sul's History-E5511E?style=badge&logo=Tistory&logoColor=white" alt="Tistory Blog"/>
     </a>
