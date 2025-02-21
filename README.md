@@ -8,7 +8,7 @@
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin: 30px 0; padding: 0 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sul1074&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 40%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sul1074&show_icons=true&theme=dark" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sul1074&layout=compact&theme=dark" alt="GitHub Top Languages" style="width: 40%;"/>
 </div>
 
