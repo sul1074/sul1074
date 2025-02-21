@@ -1,6 +1,6 @@
-<div style="display: flex; height: 300px;"> <!-- 높이 지정 -->
+<div style="display: flex; height: 100px;"> <!-- 높이 지정 -->
   <h3>Jong Hwan's Git</h3>
-  <div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; align-items: flex-start; padding: 10px;">  
+  <div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; align-items: flex-start; padding: 5px;">  
     <a href="https://sul1074.tistory.com/">
       <img src="https://img.shields.io/badge/Sul's History-E5511E?style=badge&logo=Tistory&logoColor=white"/>
     </a>
