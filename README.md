@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align = "left">Jong Hwan's Git</h1>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sul1074)](https://github.com/sul1074/github-readme-stats)
+  <div align = "right">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sul1074)](https://github.com/sul1074/github-readme-stats)</div>
 </div>
 
 ###
