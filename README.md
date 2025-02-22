@@ -1,4 +1,4 @@
-<div>
+<div align = "center">
   
   <!--Header-->
   ![header](https://capsule-render.vercel.app/api?type=Soft&color=34495e&height=125&section=header&text=Thanks%20for%20Stopping%20By!%20✨&fontColor=ffffff&fontSize=30)
