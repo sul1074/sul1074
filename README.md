@@ -17,7 +17,7 @@
 <div align="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sul1074&show_icons=true&theme=dracula&width=400)
-  <br>
+  &nbsp;&nbsp;&nbsp;
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sul1074&layout=compact&theme=dracula&width=400)
 </div>
 
