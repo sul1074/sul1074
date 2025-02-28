@@ -15,11 +15,11 @@
 </div>
 
 <div align="center">
-  
+  ###
   <img src="https://github-readme-stats.vercel.app/api?username=sul1074&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 50%; align: left;"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sul1074&layout=compact&theme=dark" alt="GitHub Top Languages" style="width: 38%; align: right;"/>
-  <hr>
+  ---
 </div>
 
 <div align="center" style="margin-top: 80px;">
