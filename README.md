@@ -27,7 +27,6 @@
   ### Languages
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-9B4F96?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/baddge/Spring?style=for-the-badge&logo=spring&logoColor=#6DB33F">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 </div>
@@ -37,6 +36,7 @@
   ### Tools
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
   <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
+  <img src="https://img.shields.io/baddge/Spring-FFFFFF?style=for-the-badge&logo=spring&logoColor=#6DB33F">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
   <img src="https://img.shields.io/badge/SQL%20Developer-4479A1?style=for-the-badge&logo=databricks&logoColor=white">
 </div>
