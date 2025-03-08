@@ -40,4 +40,6 @@
   <img src="https://img.shields.io/badge/SQL%20Developer-4479A1?style=for-the-badge&logo=databricks&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
   <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub%20Desktop-000000?style=for-the-badge&logo=githubdesktop&logoColor=white">
 </div>
