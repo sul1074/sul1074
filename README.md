@@ -33,7 +33,7 @@
 
 <div align="center" style="margin-top: 80px;">
   
-  ### Tech Stacks
+### Tech Stacks
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
   <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
@@ -41,4 +41,7 @@
   <img src="https://img.shields.io/badge/GitHub%20Desktop-6e5494?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
+  <img src="https://img.shields.io/badge/Logstash-444444?style=for-the-badge&logo=logstash&logoColor=white">
+  <img src="https://img.shields.io/badge/Kibana-5C4282?style=for-the-badge&logo=kibana&logoColor=white">
 </div>
