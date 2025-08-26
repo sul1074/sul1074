@@ -1,9 +1,3 @@
-<!--Header-->
-<div align = "center">
-
-  ![header](https://capsule-render.vercel.app/api?type=Soft&color=34495e&height=120&section=header&text=Thanks%20for%20Stopping%20By!%20✨&fontColor=ffffff&text-align=center&fontSize=28)
-</div>
-
 <!--Body-->
 <div align = "center">
 
