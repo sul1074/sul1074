@@ -44,4 +44,5 @@
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
   <img src="https://img.shields.io/badge/Logstash-444444?style=for-the-badge&logo=logstash&logoColor=white">
   <img src="https://img.shields.io/badge/Kibana-5C4282?style=for-the-badge&logo=kibana&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-10ac84?style=for-the-badge&logo=langchain&logoColor=white">
 </div>
