@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
+  <img src="https://img.shields.io/badge/Filebeat-000000?style=for-the-badge&logo=filebeat&logoColor=white">
   <img src="https://img.shields.io/badge/Logstash-444444?style=for-the-badge&logo=logstash&logoColor=white">
   <img src="https://img.shields.io/badge/Kibana-5C4282?style=for-the-badge&logo=kibana&logoColor=white">
   <img src="https://img.shields.io/badge/LangChain-10ac84?style=for-the-badge&logo=langchain&logoColor=white">
