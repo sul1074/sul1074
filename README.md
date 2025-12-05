@@ -33,9 +33,9 @@ Backend Developer | learning through questions, building reliable systems
 
 ## Languages
 <p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-9B4F96?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
@@ -57,7 +57,7 @@ Core tools I use for development
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
 </p>
 
@@ -74,7 +74,7 @@ Technologies I've worked with in projects or experiments
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Filebeat-000000?style=for-the-badge&logo=filebeat&logoColor=white">
+  <img src="https://img.shields.io/badge/Filebeat-005571?style=for-the-badge&logo=elastic&logoColor=white">
   <img src="https://img.shields.io/badge/Logstash-444444?style=for-the-badge&logo=logstash&logoColor=white">
   <img src="https://img.shields.io/badge/Kibana-5C4282?style=for-the-badge&logo=kibana&logoColor=white">
   <img src="https://img.shields.io/badge/LangChain-10ac84?style=for-the-badge&logo=langchain&logoColor=white">
