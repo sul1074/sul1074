@@ -1,50 +1,87 @@
-<!--Body-->
-<div align = "center">
-
-  ### Jong Hwan's Git
-  <a href="https://sul1074.tistory.com/"><img src="https://img.shields.io/badge/Sul's History-E5511E?style=badge&logo=Tistory&logoColor=white" alt="Tistory Blog"/></a>
-  <a href="https://solved.ac/profile/sul1074"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sul1074" alt="Solved.ac Profile"/></a>
-  ---
-  <br>
-</div>
-
+<!-- Profile Header -->
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=sul1074&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 50%; align: left;"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sul1074&layout=compact&theme=dark" alt="GitHub Top Languages" style="width: 38%; align: right;"/>
-  <hr>
+
+# Hi, I'm **Jong Hwan**  
+Backend Developer | learning through questions, building reliable systems
+
+<br>
+<a href="https://sul1074.tistory.com/">
+  <img src="https://img.shields.io/badge/Sul's_History-FF7722?style=flat-square&logo=Tistory&logoColor=white"/>
+</a>
+<a href="https://solved.ac/profile/sul1074">
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sul1074"/>
+</a>
+
+---
+
 </div>
 
-<div align="center" style="margin-top: 80px;">
-  
-  ### Languages
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-9B4F96?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
+<!-- GitHub Stats -->
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sul1074&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sul1074&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
 </div>
 
 <br><br>
-<div align="center" style="margin-top: 80px;">
 
-### Tech Stacks
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+
+<!-- Languages -->
+<div align="center">
+
+## Languages
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-9B4F96?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
+
+</div>
+
+<br>
+
+
+<!-- Tech Stacks -->
+<div align="center">
+
+## Tech Stacks  
+Core tools I use for development
+
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
+</p>
 
-<br><br>
+</div>
 
-### Used
+<br>
+
+
+<!-- Used -->
+<div align="center">
+
+## Used  
+Technologies I've worked with in projects or experiments
+
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Filebeat-000000?style=for-the-badge&logo=filebeat&logoColor=white">
   <img src="https://img.shields.io/badge/Logstash-444444?style=for-the-badge&logo=logstash&logoColor=white">
   <img src="https://img.shields.io/badge/Kibana-5C4282?style=for-the-badge&logo=kibana&logoColor=white">
   <img src="https://img.shields.io/badge/LangChain-10ac84?style=for-the-badge&logo=langchain&logoColor=white">
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
+</p>
+
 </div>
+
+<br><br>
+
