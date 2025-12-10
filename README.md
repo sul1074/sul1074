@@ -2,7 +2,7 @@
 <div align="center">
 
 # Hi, I'm **Jong Hwan**  
-Backend Developer | learning through questions, building reliable systems
+learning through questions, building reliable systems
 
 <br>
 <a href="https://sul1074.tistory.com/">
