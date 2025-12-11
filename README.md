@@ -41,11 +41,12 @@
 </div>
 <br>
 
+<!-- Certifications -->
 <div align="center">
   
 ## Certifications
 <p>
-  <img src="https://img.shields.io/badge/정보처리기사-0064FF?style=for-the-badge&logo=internetexplorer&logoColor=white">
+  <img src="https://img.shields.io/badge/정보처리기사-0064FF?style=for-the-badge&logo=ghost&logoColor=white">
   <img src="https://img.shields.io/badge/ADsP-00B050?style=for-the-badge&logo=googleanalytics&logoColor=white">
   <img src="https://img.shields.io/badge/SQLD-003B57?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
