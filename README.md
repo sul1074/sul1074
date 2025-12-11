@@ -1,10 +1,10 @@
 <!-- Profile Header -->
 <div align="center">
 
-# Hi, I'm **Jong Hwan**  
-learning through questions, building reliable systems
+# Hi, I'm **Jong Hwan** 🧩 
+<p>Backend Developer | learning through questions, building reliable systems</p>
+<p><i>The answer always lies within.</i></p>
 
-<br>
 <a href="https://sul1074.tistory.com/">
   <img src="https://img.shields.io/badge/Sul's_History-FF7722?style=flat-square&logo=Tistory&logoColor=white"/>
 </a>
@@ -24,7 +24,6 @@ learning through questions, building reliable systems
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sul1074&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
-
 <br><br>
 
 
@@ -40,9 +39,18 @@ learning through questions, building reliable systems
 </p>
 
 </div>
-
 <br>
 
+<div align="center">
+  
+## Certifications
+<p>
+  <img src="https://img.shields.io/badge/정보처리기사-0064FF?style=for-the-badge&logo=internetexplorer&logoColor=white">
+  <img src="https://img.shields.io/badge/ADsP-00B050?style=for-the-badge&logo=googleanalytics&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLD-003B57?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+</div>
+<br>
 
 <!-- Tech Stacks -->
 <div align="center">
@@ -60,7 +68,6 @@ Core tools I use for development
 </p>
 
 </div>
-
 <br>
 
 
@@ -83,6 +90,4 @@ Technologies I've worked with in projects or experiments
 </p>
 
 </div>
-
-<br><br>
-
+<br>
