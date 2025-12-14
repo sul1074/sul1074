@@ -2,7 +2,6 @@
 <div align="center">
 
 # Hi, I'm **Jong Hwan** 🧩 
-<p>Backend Developer | learning through questions, building reliable systems</p>
 <p><i>The answer always lies within.</i></p>
 
 <a href="https://sul1074.tistory.com/">
