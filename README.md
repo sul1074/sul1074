@@ -2,7 +2,7 @@
 <div align="center">
 
 # Hi, I'm **Jong Hwan** 🧩 
-<p><i>The answer always lies within.</i></p>
+<p><i>The answer lies within.</i></p>
 
 <a href="https://sul1074.tistory.com/">
   <img src="https://img.shields.io/badge/Sul's_History-FF7722?style=flat-square&logo=Tistory&logoColor=white"/>
