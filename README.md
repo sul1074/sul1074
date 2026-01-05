@@ -1,8 +1,8 @@
 <!-- Profile Header -->
 <div align="center">
 
-# Hi, I'm **Jong Hwan** 🧩 
-<p><i>The answer lies within.</i></p>
+# Hi, I'm **Jong Hwan**
+<p><i>The answer always lies within.</i></p>
 
 <a href="https://sul1074.tistory.com/">
   <img src="https://img.shields.io/badge/Sul's_History-FF7722?style=flat-square&logo=Tistory&logoColor=white"/>
@@ -29,8 +29,9 @@
 <div align="center">
 
 ## Experience
+  
 <div align="left">
-
+  
 - **2023.03 ~ 2023.12** : **게임제작 동아리 O2CUBE**
   - 로그라이크 게임 호문쿨루스
 - **2024.09 ~ 2025.06** : **IT 서비스 출시 동아리 APPTIVE**
@@ -38,10 +39,11 @@
   - Gamification을 적용한 가계부 앱 감쟈부
 - **2025.05 ~ 2025.09** : **캡스톤디자인**
   - RAG를 활용한 컨테이너 기반 마이크로서비스 운영 환경 관리 지원 시스템
-- **2025.12 ~&nbsp;** : **현장실습** (주식회사 엠케이디)
+- **2025.12 ~&nbsp;** : **현장실습 (주식회사 엠케이디)**
   - 고객 피드백을 반영한 Spring Boot 백엔드 기능 개발
-
+ 
 </div>
+
 </div>
 <br>
 
