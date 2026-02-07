@@ -2,7 +2,7 @@
 <div align="center">
 
 # Hi, I'm **Jong Hwan**
-<p><i>The answer lies within fear.</i></p>
+<p><i>The answer always lies within.</i></p>
 
 <a href="https://sul1074.tistory.com/">
   <img src="https://img.shields.io/badge/Sul's_History-FF7722?style=flat-square&logo=Tistory&logoColor=white"/>
@@ -41,8 +41,8 @@
   - RAG를 활용한 컨테이너 기반 마이크로서비스 운영 환경 관리 지원 시스템
 - **2025.12 ~&nbsp;** : **현장실습 (주식회사 엠케이디)**
   - 고객 피드백을 반영한 Spring Boot 기반 ERP 서비스 기능 확장 및 고도화
-  - RAG 연동을 위한 계층형 드라이브 시스템 및 Event-Driven RAG 파이프라인 개발
-  - 웹 서비스 내 RAG 기반 AI 채팅 기능 연동 및 API 구현
+  - RAG 질의 연동을 위한 드라이브 시스템 및 RAG 벡터 임베딩 파이프라인 개발
+  - 사용자 개인화를 위한 동적 프롬프트 관리 시스템 개발
  
 </div>
 
