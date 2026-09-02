@@ -38,7 +38,7 @@
   - 절차적 맵 생성 기반의 탑다운 뷰 로그라이크 게임 (24.12 ~ 25.02)
   - Gamification을 적용한 가계부 앱 감쟈부 (25.03 ~ 25.06)
 - **2025.05 ~ 2025.09** : **캡스톤디자인**
-  - RAG를 활용한 컨테이너 기반 마이크로서비스 운영 환경 관리 지원 시스템
+  - [RAG를 활용한 컨테이너 기반 마이크로서비스 운영 환경 관리 지원 시스템](https://github.com/PNU-Triton-capstone-2025/rag-microservice-management)
 - [**2025.12 ~ 2026.04 : 현장실습 (주식회사 엠케이디)**](https://github.com/sul1074/Rebac-Drive-System)
   - 고객 피드백을 반영한 Spring Boot 기반 ERP 서비스 기능 확장 및 고도화
   - [AI 연동형 사내 드라이브 시스템 설계 및 개발](https://sul1074.tistory.com/122)
