@@ -45,7 +45,7 @@
   - [RAG를 활용한 컨테이너 기반 마이크로서비스 운영 환경 관리 지원 시스템](https://github.com/PNU-Triton-capstone-2025/rag-microservice-management)
 - [**2025.12 ~ 2026.04 : 현장실습 (주식회사 엠케이디)**](https://github.com/sul1074/Rebac-Drive-System)
   - 고객 피드백을 반영한 Spring Boot 기반 ERP 서비스 기능 확장 및 고도화
-  - [AI 연동 사내 드라이브 설계 및 개발](https://sul1074.tistory.com/122)
+  - [RAG 기반 협업 드라이브 시스템 설계 및 개발](https://sul1074.tistory.com/122)
     - 계층형 자원 구조 및 ReBAC 기반 권한 상속·공유 기능 설계 및 개발
     - 멀티스레드 벡터 임베딩 스케줄러 설계 및 개발
     - 경로 열거 패턴을 활용한 하위 자원 조회·권한 검증 성능 개선
