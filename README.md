@@ -4,8 +4,12 @@
 # Hi, I'm **Jong Hwan**
 <p><i>The answer always lies within.</i></p>
 
+<a href="https://app.notion.com/p/74112227cfd9832a8a8281428ecf78c6">
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=notion&logoColor=white"/>
+</a>
+<br>
 <a href="https://sul1074.tistory.com/">
-  <img src="https://img.shields.io/badge/Sul's_History-FF7722?style=flat-square&logo=Tistory&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sul's_History-FF7722?style=flat-square&logo=tistory&logoColor=white"/>
 </a>
 <a href="https://solved.ac/profile/sul1074">
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sul1074"/>
