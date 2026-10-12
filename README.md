@@ -43,7 +43,7 @@
   - Gamification을 적용한 가계부 앱 감쟈부 (25.03 ~ 25.06)
 - **2025.05 ~ 2025.09** : **캡스톤디자인**
   - [RAG를 활용한 컨테이너 기반 마이크로서비스 운영 환경 관리 지원 시스템](https://github.com/PNU-Triton-capstone-2025/rag-microservice-management)
-- [**2025.12 ~ 2026.04 : 현장실습 (주식회사 엠케이디)**]
+- **2025.12 ~ 2026.04 : 현장실습 (주식회사 엠케이디)**
   - **ERP 서비스:** 고객 피드백 기반 Spring Boot 서비스 기능 확장 및 개선
   - [RAG 기반 협업 드라이브 시스템 설계:](https://github.com/sul1074/Rebac-Drive-System) Drive 백엔드 및 공통 권한 모델 설계·구현
     - 계층형 데이터 관리: Materialized Path 및 Bulk 연산을 활용한 대규모 폴더 이동·삭제 최적화
