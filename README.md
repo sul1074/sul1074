@@ -47,6 +47,6 @@
   - **ERP 서비스:** 고객 피드백 기반 Spring Boot 서비스 기능 확장 및 개선
   - [RAG 기반 협업 드라이브 시스템 설계:](https://github.com/sul1074/Rebac-Drive-System) Drive 백엔드 및 공통 권한 모델 설계·구현
     - 계층형 데이터 관리: Materialized Path 및 Bulk 연산을 활용한 대규모 폴더 이동·삭제 최적화
-    - 권한 모델 설계: 공통 ACL 및 ReBAC 기반 계층형 권한 상속, AOP 기반 인가 로직 구현
+    - 권한 모델 설계: 공통 ACL 및 자원 계층 관계 기반 권한 상속 모델 설계·구현, AOP 기반 인가 로직 구현
     - 임베딩 처리 및 최적화: SKIP LOCKED 기반 병렬 작업 선점, 트랜잭션 분리 및 대량 데이터 환경의 Polling 쿼리 병목 개선
 </div>
